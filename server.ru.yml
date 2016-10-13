@@ -1620,10 +1620,10 @@ ru:
       long_description: |
         This badge is granted for sharing a link that was clicked by 1000 outside visitors. Wow! You've promoted an interesting discussion to a huge new audience, and helped us grow our community in a big way!
     first_like:
-      name: First Like
-      description: Liked a post
+      name: Первый Like
+      description: За лайк посту
       long_description: |
-        This badge is granted the first time you like a post using the :heart: button. Liking posts is a great way to let your fellow community members know that what they posted was interesting, useful, cool, or fun. Share the love!
+        Этот значок выдается первый раз, когда вам нравится пост с помощью кнопки :heart:. Лайки это отличный способ, показать членам сообщества, что то, что они выложили, было интересно, полезно и весело. Делиться любовью!
     first_flag:
       name: First Flag
       description: Flagged a post
@@ -1650,25 +1650,25 @@ ru:
       long_description: |
         This badge is granted the first time you share a link to a reply or topic using the share button. Sharing links is a great way to show off interesting discussions with the rest of the world and grow your community.
     first_link:
-      name: First Link
-      description: Added a link to another topic
+      name: Первая ссылка
+      description: За добавление ссылки в топике
       long_description: |
-        This badge is granted the first time you add a link to another topic. Linking topics helps fellow readers find interesting related conversations, by showing the connections between topics in both directions. Link freely!
+        Этот значок выдается первый раз, когда вы добавить ссылку на другую тему. Связывая темы помогает читателям найти интересные обзоры, беседы, показывая связи между темами в обоих направлениях. Делитесь ссылками!
     first_quote:
-      name: First Quote
-      description: Quoted a post
+      name: Первая цитата
+      description: За первое цитирование в сообщении
       long_description: |
-        This badge is granted the first time you quote a post in your reply. Quoting relevant sections of earlier posts in your reply helps keep discussions connected together and on topic. The easiest way to quote is to highlight a section of a post, and then press any reply button. Quote generously!
+        Этот значок выдается первый раз, когда вы цитируете пост в своем ответе. Цитирование предыдущих постов в ваш ответ - помогают поддерживать разговор по теме. Самый простой способ Цитировать - выделить часть текста, а затем нажмите любую кнопку ответить.
     read_guidelines:
       name: Read Guidelines
       description: Read the <a href="/guidelines">community guidelines</a>
       long_description: |
         This badge is granted for <a href="/guidelines">reading the community guidelines</a>. Following and sharing these simple guidelines helps build a safe, fun, and sustainable community for everyone. Always remember there's another human being, one very much like yourself, on the other side of that screen. Be nice!
     reader:
-      name: Reader
-      description: Read every reply in a topic with more than 100 replies
+      name: Читатель
+      description: Прочитал все сообщения в темах с более 100 ответов.
       long_description: |
-        This badge is granted the first time you read a long topic with more than 100 replies. Reading a conversation closely helps you follow the discussion, understand different viewpoints, and leads to more interesting conversations. The more you read, the better the conversation gets. As we like to say, Reading is Fundamental! :slight_smile:
+        Этот значок выдается первый раз, когда вы прочитали длинная тема с более 100 ответами. Чтение поможет вам следить за обсуждением, понимать различные точки зрения, и приводит к более интересным разговорам. Чем больше вы читаете, тем лучше разговор получается. Как у нас любят говорить, чтение является основополагающим! :slight_smile:
     popular_link:
       name: Popular Link
       description: Posted an external link with 50 clicks
