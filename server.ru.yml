@@ -1565,10 +1565,10 @@ ru:
       long_description: |
         This badge is granted when you receive your first like on a post. Congratulations, you've posted something that your fellow community members found interesting, cool, or useful!
     autobiographer:
-      name: Autobiographer
-      description: Filled out <a href="/my/preferences">profile</a> information
+      name: Автобиография
+      description: За заполнение <a href="/my/preferences">профиля</a>
       long_description: |
-        This badge is granted for filling out <a href="/my/preferences">your user profile</a> and selecting a profile picture. Letting the community know a bit more about who you are and what you're interested in makes for a better, more connected community. Join us!
+        Этот значок выдается за заполнения профиля пользователя и добавление фотографии. Давая сообществу узнать немного больше о том, кто вы и что вы заинтересованы. Присоединяйтесь к нам!
     anniversary:
       name: Anniversary
       description: Active member for a year, posted at least once
@@ -1730,10 +1730,10 @@ ru:
       long_description: |
             This badge is granted when you have 500 liked posts and give 1000 or more likes in return. Wow! You're a model of generosity and mutual appreciation :two_hearts:.
     first_emoji:
-      name: First Emoji
-      description: Used an Emoji in a Post
+      name: Первая эмоция
+      description: За первый смайл в посте
       long_description: |
-        This badge is granted the first time you add an Emoji to your post :thumbsup:. Emoji let you convey emotion in your posts, from happiness :smiley: to sadness :anguished: to anger :angry: and everything in between :sunglasses: . Just type a : (colon) or press the Emoji toolbar button in the editor to select from hundreds of choices :ok_hand:
+        Этот значок выдается первый раз, когда вы добавили смайлики в свой пост :thumbsup:. Смайлики позволяют выразить эмоции в ваших постах, от счастья :smiley: удивления :anguished: негодования :angry: или крутыша :sunglasses: . Просто наберите : (двоеточие) или нажмите кнопку на панели инструментов смайлики в редакторе, чтобы выбрать из сотни вариантов :ok_hand:
     first_onebox:
       name: First Onebox
       description: Posted a link that was oneboxed
