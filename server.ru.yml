@@ -1540,30 +1540,30 @@ ru:
       long_description: |
         Этот значок дается за первое отредактированное сообщение. Редактирование всегда хорошая идея - вы можете улучшить свои сообщения, исправить мелкие ошибки, или добавить что-нибудь. Редактируйте, чтобы сделать ваши посты еще лучше!
     basic_user:
-      name: Basic
-      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/4">Granted</a> all essential community functions
+      name: Базовый
+      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/4">получены</a> все основные функции
       long_description: |
-        This badge is granted when you reach trust level 1. Thanks for sticking around a little while and reading a few topics to learn what our community is about. Your new user restrictions have been lifted; you've been granted all essential community abilities, such as personal messaging, flagging, wiki editing, and the ability to post multiple images and links.
+        Этот знак выдается, когда вы достигнете первого уровня доверия 1. Спасибо за уделенное время и проявленный интерес. Теперь у вас отменили некоторые ограничения и у вас есть все необходимые для общения инструменты, такие как личные сообщения, флаги, редактирования Вики-страниц, и возможность размещать несколько изображений и ссылок.
     member:
       name: Member
       description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/5">Granted</a> invitations, group messaging, more likes
       long_description: |
         This badge is granted when you reach trust level 2. Thanks for participating over a period of weeks to truly join our community. You can now send invitations from your user page or individual topics, create group personal messages, and have a few more likes per day.
     regular:
-      name: Regular
-      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/6">Granted</a> recategorize, rename, followed links, wiki, more likes
+      name: Постоянный
+      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/6">получены</a> смена и переименование категорий, Вики-страницы, больше лайков
       long_description: |
-        This badge is granted when you reach trust level 3. Thanks for being a regular part of our community over a period of months. You're now one of the most active readers, and a reliable contributor that makes our community great. You can now recategorize and rename topics, take advantage of more powerful spam flags, access a private lounge area, and you'll also get lots more likes per day.
+        Этот значок выдается, когда вы достигнете 3 уровня доверия. Спасибо, что были частью нашего сообщества в течение нескольких месяцев. Ты сейчас один из самых активных читателей, что делает нашу страну Великой. Теперь вы можете менять категорию и переименовывать темы, использовать более мощным спам флаги, для вас открыт доступ в закрытые разделы и теперь можно выдавать больше лайков за день.
     leader:
-      name: Leader
-      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/7">Granted</a> global edit, pin, close, archive, split and merge, more likes
+      name: Лидер
+      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/7">возможности</a> редактирование, прикрепление, закрытие, архивация, разделение и объединение тем, тонны лайков
       long_description: |
-        This badge is granted when you reach trust level 4. You're a leader in this community as selected by staff, and you set a positive example for the rest of the community in your actions and words here. You have the ability to edit all posts, take common topic moderator actions such as pin, close, unlist, archive, split, and merge, and you have tons of likes per day.
+        Этот знак выдается, когда вы достигнете 4 уровня. Ты лидер в этом сообществе, как некоторые сотрудники, и является положительным примером для остальной части сообщества в своих действиях и словах. У вас есть возможность редактировать все посты, принимать общие модераторские действия и у вас есть тонны лайков в день.
     welcome:
-      name: Welcome
-      description: Received a like
+      name: Велком
+      description: Получен Like
       long_description: |
-        This badge is granted when you receive your first like on a post. Congratulations, you've posted something that your fellow community members found interesting, cool, or useful!
+        Этот значок выдается, когда вы получите свой первый лайк в вашем посте. Поздравляем, ты запостил что-то, что члены сообщества нашли интересным, классным и полезным!
     autobiographer:
       name: Автобиография
       description: За заполнение <a href="/my/preferences">профиля</a>
@@ -1630,10 +1630,10 @@ ru:
       long_description: |
         This badge is granted the first time you flag a post. Flagging is how we all help keep this a clean, well lit place for everyone. If you notice any posts that require moderator attention for any reason please don't hesitate to flag. You can also flag to send <b>personal messages</b> to fellow users if you see an issue with their post. If you see a problem, :flag_black: flag it!
     promoter:
-      name: Promoter
-      description: Invited a user
+      name: Промоутер
+      description: Приглашение пользователей
       long_description: |
-        This badge is granted when you invite someone to join the community via the invite button on your user page, or at the bottom of a topic. Inviting friends who might be interested in specific discussions is an great way to introduce new people to our community, so thanks!
+        Этот знак выдается, когда вы приглашаете кого-либо присоединиться к сообществу через кнопку "пригласить" на вашей странице пользователя, или в нижней части раздела. Приглашая друзей, кто может быть заинтересован в конкретных обсуждений - это отличный способ познакомить новых людей с нашим сообществом. Спасибо Вам за это!
     campaigner:
       name: Campaigner
       description: Invited 3 basic users
