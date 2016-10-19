@@ -1541,7 +1541,7 @@ ru:
         Этот значок дается за первое отредактированное сообщение. Редактирование всегда хорошая идея - вы можете улучшить свои сообщения, исправить мелкие ошибки, или добавить что-нибудь. Редактируйте, чтобы сделать ваши посты еще лучше!
     basic_user:
       name: Базовый
-      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/4">получены</a> все основные функции
+      description: Возможности: все основные функции
       long_description: |
         Этот знак выдается, когда вы достигнете первого уровня доверия 1. Спасибо за уделенное время и проявленный интерес. Теперь у вас отменили некоторые ограничения и у вас есть все необходимые для общения инструменты, такие как личные сообщения, флаги, редактирования Вики-страниц, и возможность размещать несколько изображений и ссылок.
     member:
@@ -1551,12 +1551,12 @@ ru:
         This badge is granted when you reach trust level 2. Thanks for participating over a period of weeks to truly join our community. You can now send invitations from your user page or individual topics, create group personal messages, and have a few more likes per day.
     regular:
       name: Постоянный
-      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/6">получены</a> смена и переименование категорий, Вики-страницы, больше лайков
+      description: Возможности: смена и переименование категорий, Вики-страницы, больше лайков
       long_description: |
         Этот значок выдается, когда вы достигнете 3 уровня доверия. Спасибо, что были частью нашего сообщества в течение нескольких месяцев. Ты сейчас один из самых активных читателей, что делает нашу страну Великой. Теперь вы можете менять категорию и переименовывать темы, использовать более мощным спам флаги, для вас открыт доступ в закрытые разделы и теперь можно выдавать больше лайков за день.
     leader:
       name: Лидер
-      description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/7">возможности</a> редактирование, прикрепление, закрытие, архивация, разделение и объединение тем, тонны лайков
+      description: Возможности: редактирование, прикрепление, закрытие, архивация, разделение и объединение тем, тонны лайков
       long_description: |
         Этот знак выдается, когда вы достигнете 4 уровня. Ты лидер в этом сообществе, как некоторые сотрудники, и является положительным примером для остальной части сообщества в своих действиях и словах. У вас есть возможность редактировать все посты, принимать общие модераторские действия и у вас есть тонны лайков в день.
     welcome:
@@ -1575,35 +1575,35 @@ ru:
       long_description: |
         This badge is granted when you've been a member for a year with at least one post in that year. Thank you for sticking around and contributing to our community. We couldn't do it without you.
     nice_post:
-      name: Nice Reply
-      description: Received 10 likes on a reply
+      name: Хороший пост!
+      description: За 10 лайков к посту
       long_description: |
-        This badge is granted when your reply gets 10 likes. Your reply really made an impression on the community and helped move the conversation forward!
+        Это значек вы получаете когда ваше сообщение получило 10 лайков от пользователей! Ваш пост действительно произвел впечатление на сообщество! Супер, спасибо Вам!
     good_post:
-      name: Good Reply
-      description: Received 25 likes on a reply
+      name: Отличный пост!
+      description: За 25 лайков к посту
       long_description: |
-        This badge is granted when your reply gets 25 likes. Your reply was exceptional and made the conversation a whole lot better for everyone!
+        Эта награда выдается, когда ваш ответ получает 25 лайков от пользователей. Ваш ответ был исключительным и сделал разговор намного лучше для всех, сообщество оценило!
     great_post:
-      name: Great Reply
-      description: Received 50 likes on a reply
+      name: Супер пост!!!
+      description: За 50 лайков к посту
       long_description: |
-        This badge is granted when your reply gets 50 likes. Wow! Your reply was inspiring, fascinating, hilarious, or insightful and the community loved it.
+        Эта награда заслужена! Выдается, когда ваш ответ получает 50 лайков. Вау! Ваш ответ был грандиозным, увлекательным и красивым, наша община полюбила его. Поздравляем!
     nice_topic:
-      name: Nice Topic
-      description: Received 10 likes on a topic
+      name: Хорошая тема!
+      description: Получено 10 лайков к теме
       long_description: |
-        This badge is granted when your topic gets 10 likes. Hey, you started an interesting conversation that the community enjoyed!
+        Этот значек выдается за 10 лайков которые дали пользователи вашей теме. Эй, вы подняли интересную тему, сообщество оценила ее!
     good_topic:
-      name: Good Topic
-      description: Received 25 likes on a topic
+      name: Отличная тема!
+      description: Получено 25 лайков к теме
       long_description: |
-        This badge is granted when your topic gets 25 likes. You launched a vibrant conversation that the community rallied around and loved!
+        Эта награда за 25 лайков вашей темы. Вы начали оживленную и интересную тему, сообщество сплотилось вокруг вас и нам это всем понравилось!
     great_topic:
-      name: Great Topic
-      description: Received 50 likes on a topic
+      name: Великолепная тема!!!
+      description: Получено 50 лайков к теме
       long_description: |
-        This badge is granted when your topic gets 50 likes. You kicked off a fascinating conversation and the community enjoyed the dynamic discussion that resulted!
+        Эта награда дается за 50 лайков вашей отличной темы! Вы дали старт очень увлекательному и интересному разговору, сообщество насладилось интересом вашей темы, которую вы создали!
     nice_share:
       name: Nice Share
       description: Shared a post with 25 unique visitors
@@ -1645,10 +1645,10 @@ ru:
       long_description: |
         This badge is granted when you've invited 5 people who subsequently spent enough time on the site to become full members. Wow! Thanks for expanding the diversity of our community with new members!
     first_share:
-      name: First Share
-      description: Shared a post
+      name: Первый раз поделились
+      description: Поделились темой или постом
       long_description: |
-        This badge is granted the first time you share a link to a reply or topic using the share button. Sharing links is a great way to show off interesting discussions with the rest of the world and grow your community.
+        Этот значок выдается первый раз, когда вы поделились ответом или темой с помощью кнопки Поделится. Поделится - это отличный способ, чтобы показать интересные дискуссии остальному миру и развивать свои темы и ответы.
     first_link:
       name: Первая ссылка
       description: За добавление ссылки в топике
