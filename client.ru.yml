@@ -736,6 +736,12 @@ ru:
         title: "Сводка"
         stats: "Статистика"
         time_read: "время чтения"
+        likes_given:
+          one: "<i class='fa fa-heart'></i> выдан"
+          other: "<i class='fa fa-heart'></i> выдано"
+        likes_received:
+          one: "<i class='fa fa-heart'></i> получен"
+          other: "<i class='fa fa-heart'></i> получено"
         topic_count:
           one: "тему создал"
           few: "темы создал"
