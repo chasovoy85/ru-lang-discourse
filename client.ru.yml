@@ -1954,7 +1954,36 @@ ru:
         mark_tracking: '<b>m</b>, <b>t</b> Следить за темой'
         mark_watching: '<b>m</b>, <b>w</b> Наблюдать за темой'
     badges:
+      earned_n_times:
+        one: "Эта награда получена 1 раз"
+        other: "Эта награда получена %{count} раз"
+      granted_on: "Награжден(а) %{date}"
+      others_count: "Другие пользователи с такой наградой (%{count})"
       title: Награды
+      allow_title: "видно в превью"
+      multiple_grant: "выдается многократно"
+      badge_count:
+        one:   "1 награда"
+        other: "%{count} награжден(а)"
+      more_badges:
+        one:   "+1 еще"
+        other: "+%{count} еще"
+      granted:
+        one:   "1 награжден(а)"
+        other: "%{count} награждены"
+      select_badge_for_title: Select a badge to use as your title
+      none: "<none>"
+      badge_grouping:
+        getting_started:
+          name: Getting Started
+        community:
+          name: Community
+        trust_level:
+          name: Trust Level
+        other:
+          name: Other
+        posting:
+          name: Posting
     tagging:
       all_tags: "Все теги"
       selector_all_tags: "Все теги"
