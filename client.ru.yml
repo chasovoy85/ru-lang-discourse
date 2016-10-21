@@ -1160,6 +1160,9 @@ ru:
     topic:
       unsubscribe:
         change_notification_state: "Ваше текущее состояние уведомлений"
+      filter_to:
+        one: "1 ответ в теме"
+        other: "{{count}} ответа в теме"
       create: 'Создать Тему'
       create_long: 'Создать новую тему'
       private_message: 'Написать сообщение'
