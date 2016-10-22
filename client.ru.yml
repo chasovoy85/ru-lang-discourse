@@ -737,11 +737,13 @@ ru:
         stats: "Статистика"
         time_read: "время чтения"
         likes_given:
-          one: "<i class='fa fa-heart'></i> выдан"
-          other: "<i class='fa fa-heart'></i> выдано"
+          one: "<i class='fa fa-heart'></i> подарил(а)"
+          other: "<i class='fa fa-heart'></i> подарил(а)"
+          few: "<i class='fa fa-heart'></i> подарил(а)"
         likes_received:
           one: "<i class='fa fa-heart'></i> получен"
           other: "<i class='fa fa-heart'></i> получено"
+          few: "<i class='fa fa-heart'></i> получено"
         topic_count:
           one: "тему создал"
           few: "темы создал"
@@ -1971,6 +1973,7 @@ ru:
       more_badges:
         one:   "+1 еще"
         other: "+%{count} еще"
+        few: "еще награды"
       granted:
         one:   "1 награжден(а)"
         other: "%{count} награждены"
